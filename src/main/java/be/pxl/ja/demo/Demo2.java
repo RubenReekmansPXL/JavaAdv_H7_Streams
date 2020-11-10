@@ -1,4 +1,4 @@
-package be.pxl.ja.exercise1;
+package be.pxl.ja.demo;
 
 import java.util.OptionalInt;
 import java.util.stream.IntStream;
