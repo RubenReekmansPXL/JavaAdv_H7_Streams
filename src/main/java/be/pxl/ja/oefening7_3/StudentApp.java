@@ -1,4 +1,4 @@
-package be.pxl.ja.oefening7_4;
+package be.pxl.ja.oefening7_3;
 
 import java.util.Comparator;
 import java.util.List;
